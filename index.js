@@ -1,8 +1,9 @@
-const { Pool } = require('pg')
+const { Pool } = require('pg');
 const pool = new Pool({
-  connectionString: process.send.DATABASE_URL,
+  connectionString: process.env.DATABASE_URL,
   ssl: true
-})
+});
+
 
 const cool = require('cool-ascii-faces')
 const express = require('express')
