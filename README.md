@@ -10,7 +10,7 @@ Make sure you have [Node.js](http://nodejs.org/) and the [Heroku CLI](https://cl
 
 ```sh
 $ git clone https://github.com/reepz/community-x # or clone your own fork
-$ cd community0x
+$ cd community-x
 $ npm install
 $ npm start
 ```
