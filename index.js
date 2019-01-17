@@ -33,7 +33,7 @@ express()
 
 showTimes = () => {
   let result = ''
-  const times = process.env.TIMES ||  5
+  const times = process.env.TIMES ||  2
   for (i = 0; i < times; i++) {
     result += i + ` `
   }
