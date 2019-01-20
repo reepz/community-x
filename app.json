@@ -2,5 +2,5 @@
   "name": "Community-X",
   "description": "A barebones Node.js app using Express 4",
   "repository": "https://github.com/reepz/community-x",
-  "keywords": ["node", "express", "heroku"],
+  "keywords": ["node", "express", "heroku"]
 }
